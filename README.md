@@ -2,6 +2,15 @@
 
 > A curated and organized collection of resources related to **Data-Visualization**.
 
+**Humayun Shariar Himu**  
+A Passionated Psychologist & Tech Lover!  
+Based in Bangladesh  
+[GitHub Profile](https://github.com/HumayunShariarHimu)
+
+# Data-Visualization
+
+> A curated and organized collection of resources related to **Data-Visualization**.
+
 **Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
 
 # Data-Visualization
