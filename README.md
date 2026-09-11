@@ -2,7 +2,6 @@
 
 > A curated and organized collection of resources related to **Data-Visualization**.
 
-**Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
 
 # Data-Visualization
 > Master data visualization: interactive charts, dashboards, and storytelling with tools like Matplotlib, D3.js, and Tableau. Includes examples and datasets.
